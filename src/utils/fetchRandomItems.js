@@ -1,4 +1,5 @@
 function fetchRandomItems(array,count) {
+  // set initial item
   const itemsToFetch = count ?? 40;
   const randomItems = [];
 
