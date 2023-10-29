@@ -1,6 +1,6 @@
 {
-  "name": "clickplay",
-  "version": "0.1.0",
+  "name": "click-play",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "hook:set": "cd src/hooks && node initializer.js",
